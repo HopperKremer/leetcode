@@ -1,0 +1,2 @@
+def buddyStrings(A, B):
+        
